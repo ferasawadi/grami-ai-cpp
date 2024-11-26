@@ -1,0 +1,22 @@
+# Build artifacts
+*.o
+ai_agent
+build/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Environment variables
+.env
+
+# Dependency directories
+vendor/
+lib/
